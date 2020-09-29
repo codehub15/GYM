@@ -29,6 +29,11 @@
   align-items: center;
 }
 
+.logo-icon {
+  color: #f17828;
+  padding-right: 0.3rem;
+}
+
 .nav-menu {
   display: grid;
   grid-template-columns: repeat(4, auto);
