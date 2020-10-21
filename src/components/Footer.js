@@ -8,7 +8,7 @@ export default function Footer() {
         <footer className="footer-container">
             <section className='footer-subscription'>
                 <p className='footer-subscription-heading'>
-                    Join the Adventure newsletter to receive our best vacation deals
+                    Join the Adventure newsletter to receive our best sport deals
                 </p>
                 <p className='footer-subscription-text'>
                     You can unsubscribe at any time.
@@ -30,7 +30,6 @@ export default function Footer() {
                     <div className='footer-link-items'>
                         <h2>About Us</h2>
                         <Link to='/sign-up'>How it works</Link>
-                        <Link to='/'>Testimonials</Link>
                         <Link to='/'>Careers</Link>
                         <Link to='/'>Investors</Link>
                         <Link to='/'>Terms of Service</Link>
@@ -39,7 +38,6 @@ export default function Footer() {
                         <h2>Contact Us</h2>
                         <Link to='/'>Contact</Link>
                         <Link to='/'>Support</Link>
-                        <Link to='/'>Destinations</Link>
                         <Link to='/'>Sponsorships</Link>
                     </div>
                 </div>
@@ -47,7 +45,6 @@ export default function Footer() {
                     <div className='footer-link-items'>
                         <h2>Videos</h2>
                         <Link to='/'>Submit Video</Link>
-                        <Link to='/'>Ambassadors</Link>
                         <Link to='/'>Agency</Link>
                         <Link to='/'>Influencer</Link>
                     </div>
