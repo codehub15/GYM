@@ -4,4 +4,6 @@
 
 This is a responsive website build with React JS.
 
-![alt text](./public/assets/screenshot.png)
+![project screenshot](./public/assets/screenshot.png)
+
+Check it out under this link: https://natalialexandra.github.io/gym-website/#/
